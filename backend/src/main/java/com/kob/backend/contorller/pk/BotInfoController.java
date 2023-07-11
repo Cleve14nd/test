@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class BotInfoController {
     @RequestMapping("getbotinfo/")
     public String getBotinfo(){
-        return "111";
+        return "test test";
     }
 
 }
